@@ -1,0 +1,6 @@
+Recomendaciones para mejorar en Python:
+
+Emplear compression list
+Usar .get() para evitar valores nulos en diccionarios
+Siempre usar validaciones para los tipos de datos y contraejemplos
+usar "slices" para acceso de cadenas
